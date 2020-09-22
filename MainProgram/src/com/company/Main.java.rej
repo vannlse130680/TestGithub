@@ -1,0 +1,9 @@
+diff a/MainProgram/src/com/company/Main.java b/MainProgram/src/com/company/Main.java	(rejected hunks)
+@@ -7,6 +7,6 @@
+         
+         System.out.println("xin chao");
+         System.out.println("develop ne");
+-        System.out.println("con 1 ne");
++        System.out.println("in ra con 11 ne");
+     }
+ }
