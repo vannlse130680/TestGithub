@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         
         System.out.println("xin chao");
+        System.out.println("con2 ne");
     }
 }
